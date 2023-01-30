@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Devkumar Banerjee's Personal Site"
+title                    : "Devkumar Banerjee"
 title_separator          : " | "
 name                     : &name "Devkumar Banerjee"
 description              : &description "My Personal Website"
@@ -81,13 +81,13 @@ analytics:
 # Site Author
 author:
   name             : "Devkumar Banerjee"
-  avatar           : "profile.png"
-  bio              : "TODO"
+  avatar           : "profile.jpg"
+  bio              : "Student at A&M Consolidated High School. GPG: 0xDFC72721BE0BDDE2"
   location         : "Location"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  email            : "supernovadkb@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,14 +102,14 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://linkedin.com/in/devkumarbanerjee"
   orcid            : "http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          : #"replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
