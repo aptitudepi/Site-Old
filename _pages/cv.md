@@ -11,16 +11,14 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* A&M Consolidated High School (expected Grauation Date: May 2025)
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* August 2021 - Present: Tutor
+  * Kumon North America, Inc.
+  * Duties included: Creating a personalized environment for students to maximize their potential in mathematics (STEM), emphasized critical thinking and independent thought among students.
+  * Supervisor: Melissa Cameron
 
 * Fall 2015: Research Assistant
   * Github University
@@ -42,18 +40,6 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
+Service, leadership, and volunteering
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 
